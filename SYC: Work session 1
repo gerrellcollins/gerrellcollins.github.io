@@ -1,0 +1,55 @@
+<html>
+<head>
+	<title> My First Project</title>
+</head>
+<body>
+<div>
+	<h1><b>Lesson One - Learning to Code: Important Concepts to Remember</b></h1>
+</div>
+<div>
+	<u><b><h3>5 ways of thinking like a programmer</h3></u></b>
+	<p><b>1. Procedural Thinking:</b>
+		  <em>Creating perfectly clear and unambiguous instructions.</em></p>
+	<p><b>2. Abstract Thinking:</b>
+			<em>Finding similarity amongst seemingly different things.</em></p>
+	<p><b>3. Systems Thinking:</b>
+			<em>Breaking a big problem down into smaller pieces.</em></p>
+	<p><b>4. Technological Empathy:</b>
+			<em>Ability to understand a computer capabilities.</em></p>
+</div>
+<div>
+	<p><b>5. Debugging:</b>
+		<em>Systematic process of identifying the cause of a computer program problem.</em></p>
+		<u><b><h2>The World Wide Web</h2></u></b>
+	<b>HTML is the main type of document on the web</b><br>
+			Other file types that can be found on the web:<br>
+ 		  Plain text, Images, Videos, and Music<br>
+	<b><span>Important Concepts</span></b><br>
+			HTTP is the main protocol of the web<br>
+			Servers are the computers that host the files that make up the web <br>
+			Internet is the world's largest computer network<br>
+			Browser is a program that runs on your computer to display files found on the web<br>
+</div>
+<div>
+	<p><u><h2><b>HTML Basics</h2></u></b>
+	<b>Basic HTML Elements</b><br>
+				HTML elements are what we use to tell a web browser how to display content on a web page.<br>
+				Most HTML elements consist of an opening and a closing tag with some content between them.<br>
+	<b>HTML Attributes</b><br>
+			Some elements accept additional values called attributes in their opening tags.
+			Attributes provide additional information to the browser.<br>
+	<b>Some HTML Elements</b><br>
+			Bold(b), Italic(i), Paragraph (p), Line Breaks (br), Div (box container element), Span (inline container element)<br></p>
+</div>
+<div>
+		<u><b><h2>Computers are Stupid</h2></b></u>
+		"Each of us saw her duck." Does that mean each of us saw her pet duck? Or did we each see her duck under something? Depending on the context, you might be able to infer which interpretation is correct.<br>
+		<b>Computers can't make these inferences and so they interpret language literally.</b>
+			<em>Keep this in mind when programming</em>
+</div>
+<div>
+	<p><b><h2><u>It's OK to Forget</u></h2></b>Remember the following...<br>
+		1. Use Google<br>2. <a href="www.w3schools.com">W3Schools<a><br>3. MDN (Mozilla Developer Network)</p>
+/div>
+</body>
+</html>
